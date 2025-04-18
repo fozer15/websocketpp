@@ -4,32 +4,6 @@ This project demonstrates how to run a minimal WebSocket server using **WebSocke
 
 ---
 
-## ✅ Prerequisites
-
-- MSYS2 installed: https://www.msys2.org/
-- Using **MSYS2 MinGW 64-bit** terminal (not MSYS or UCRT)
-- Install required packages:
-
-```bash
-pacman -S mingw-w64-x86_64-gcc make
-```
-
----
-
-## 📁 Folder Structure
-
-```
-project-root/
-├── main.cpp
-├── websocketpp/                # WebSocket++ headers
-└── asio-X.Y.Z/
-    └── asio/
-        └── include/
-            └── asio/
-```
-
----
-
 ## ⚙️ Setup Steps
 
 1. **Download WebSocket++**
